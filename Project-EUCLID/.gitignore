@@ -2,9 +2,4 @@ __pycache__/
 *.pyc
 *.log
 *.tmp
-*.bak
-*.swp
-*.sqlite
-*.db
 .env
-.venv/

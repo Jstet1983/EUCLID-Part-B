@@ -1,0 +1,12 @@
+*.log
+*.aux
+*.out
+*.toc
+*.tmp
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+build/
+dist/
+.cache/

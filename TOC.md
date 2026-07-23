@@ -7,6 +7,7 @@
 ./docs/Executive_Summary.md
 ./docs/Hypotheses.md
 ./docs/Postulates.md
+./docs/index.md
 ./experiments/Experimental_Verification.md
 ./experiments/Predictions.md
 ./experiments/Test_Methodology.md
@@ -18,4 +19,4 @@
 ./papers/Theoretical_Analysis.md
 ./references/Bibliography.md
 
-Generated Wed Jul 22 20:32:05 PDT 2026
+Generated Wed Jul 22 20:35:31 PDT 2026

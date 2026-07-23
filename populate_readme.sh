@@ -1,3 +1,6 @@
+#!/usr/bin/env bash
+
+cat > README.md << 'README'
 # EUCLID Part B
 
 ## Stettler Higgs Coefficient & Cochran Dynamics
@@ -44,3 +47,6 @@ Constructive criticism, mathematical review, simulation results, and experimenta
 ## License
 
 MIT License
+README
+
+echo "README populated."

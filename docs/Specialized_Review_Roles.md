@@ -1,0 +1,15 @@
+# Specialized Review Roles
+
+- MC
+- DATA
+- BUG
+- RED
+- BLUE
+- PROTEO
+- SCOTTY
+- RODEO
+- ATOM
+- CUSTOS
+- ARCHIVIST
+- LIBRARIAN
+- ORACLE
